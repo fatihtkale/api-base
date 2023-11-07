@@ -1,7 +1,3 @@
-# Awesome Project Build with TypeORM
+# TS Koa TypeORM
 
-Steps to run this project:
-
-1. Run `npm i` command
-2. Setup database settings inside `ormconfig.json` file
-3. Run `npm start` command
+Code for TS/Koa/TypeORM blog post [link to follow once published].
