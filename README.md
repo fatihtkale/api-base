@@ -22,6 +22,9 @@ copy the current `.env.template` and rename it to `.env`
 Or with npm
 `npm install -g nodemon`
 
+To start the application type this in the terminal while being in the root folder
+- `nodemon`
+
 ### Migrations
 `yarn migration:create` Create a empty migration
 `yarn migration:generate` Create migration out from entity changes
